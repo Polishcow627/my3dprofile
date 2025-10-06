@@ -18,7 +18,7 @@ const Navbar = () => {
           setActive("");
           window.scrollTo(0,0);
         }}>
-          <img src={ logo } alt='Sudheendra S G Logo' className='w-9 h-9 object-contain'/>
+          <img src={ logo } alt='Alen George Logo' className='w-9 h-9 object-contain'/>
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>Alen George's Webprofile&nbsp;<span className='sm:block hidden'></span></p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
